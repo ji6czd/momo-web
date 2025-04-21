@@ -1,5 +1,5 @@
 +++
-date = '2025-03-31T09:00:00+09:00'
+date = '2025-04-01T09:00:00+09:00'
 draft = false
 title = 'Project MOMO'
 +++
@@ -29,7 +29,7 @@ title = 'Project MOMO'
 
 上記サンプルのようなことを試してみたい方は、以下をご利用ください。
 
-* [MOMO 変換サンプル]()
+* [MOMO 変換サンプル](https://momoapi.sei-ken.dev)
 
 ## 今後
 
